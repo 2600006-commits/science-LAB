@@ -5,7 +5,7 @@
    - CORS 사전요청(preflight)을 피하기 위해 Content-Type을 text/plain 으로 보냅니다.
 */
 
-const GAS_WEB_APP_URL = 'PUT_YOUR_APPS_SCRIPT_WEB_APP_URL_HERE';
+const GAS_WEB_APP_URL = 'https://script.google.com/macros/s/AKfycby2U_CkimX9UE19tOxlVQgJzoPX1nNnAG5zB8rcVCTtyUFOHXEYMl2rBWSUcZD6pj3CBQ/exec';
 
 const Session = {
   KEY: 'labinv_session',
